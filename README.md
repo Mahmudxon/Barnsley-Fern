@@ -18,3 +18,8 @@ Barnsley shows the IFS code for his Black Spleenwort fern fractal as a matrix of
 These correspond to the following transformations: 
 
 ![alt text](https://raw.githubusercontent.com/Mahmudxon/Barnsley-Fern/master/img/3.png)
+
+<a href="https://en.wikipedia.org/wiki/Barnsley_fern">Read more</a>
+
+
+© <a href="http://mahmudxon.uz"> Mahmudxon</a>
